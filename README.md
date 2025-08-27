@@ -20,13 +20,13 @@ The project implements three widely used algorithms:
 python 3.8
 
 ### GUI
-PyQt5 and PyQt6
+PyQt5, PyQt6 and tkinter
 
 ### Data processing
 pandas and numpy
 
 ### Machine Learning
-scikit-learn
+scikit-learn, keras and tensorflow
 
 ### Visualization
 matplotlib and seaborn
