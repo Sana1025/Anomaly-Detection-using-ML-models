@@ -15,3 +15,18 @@ The project implements three widely used algorithms:
 * Evaluation metrics such as **accuracy, precision, recall, and F1-score**.
 * Modular design for extending additional
 
+# Requirement
+### Core
+python 3.8
+
+### GUI
+PyQt5 and PyQt6
+
+### Data processing
+pandas and numpy
+
+### Machine Learning
+scikit-learn
+
+### Visualization
+matplotlib and seaborn
